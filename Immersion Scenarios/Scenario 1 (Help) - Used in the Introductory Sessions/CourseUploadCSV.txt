@@ -1,0 +1,4 @@
+shortname,fullname,category
+Phys,Physik,1
+Chem,Chemie,1
+Eugh,Europäische Geschichte,4
